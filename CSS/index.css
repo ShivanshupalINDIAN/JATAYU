@@ -1,0 +1,28 @@
+#logo
+{
+    height:300px;
+    width:300px;
+    margin-left:615px;
+    margin-top:180px;
+}
+#logo img{
+    height:300px;
+    width:350px;
+}
+#name
+{
+    width:200px;
+    padding-left:80px;
+    margin-left:650px;
+}
+#loading
+{
+    
+    height:70px;
+    width:100px;
+    margin-left:739px;
+}
+#loading img{
+    height:70px;
+    width:100px;
+}
