@@ -14,21 +14,21 @@
     <form action="">
         <h1 align="center">Create Account</h1>
         <label  for="">Name</label><br>
-        <input type="text">
+        <input type="text" required>
         <br>
         <br>
         <label for="">@Username</label><br>
-        <input type="text">
+        <input type="text" required>
         <br>
         <br>
         <label >Gender</label><br>
         <br>
-        <input type="radio" id="male" name="gender"><label for="male">Male</label>
+        <input type="radio" id="male" name="gender"><label for="male" >Male</label>
         <input type="radio" id="female" name="gender"><label for="female">Female</label>
         <br>
         <br>
         <label>Country</label><br><br>
-        <select name="countries" id="countries">
+        <select name="country" required id="countries">
             <option value="india">India</option>
             <option value="usa">United States</option>
             <option value="canada">Canada</option>
@@ -50,9 +50,14 @@
             <option value="sweden">Sweden</option>
             <option value="switzerland">Switzerland</option>
           </select>
-          
-        
     </form>
+    <div id="next">
+        <a href="">
+            <div id="next_button">
+                <h4>NEXT</h4>
+            </div>
+        </a>
+    </div>
     
 </body>
 </html>

@@ -1,0 +1,45 @@
+#logo img
+{
+    height:148px;
+    width:160px;
+}
+#otp
+{
+    height:400px;
+    width:350px;
+    margin-left:540px;
+    border:1px solid rgb(222, 222, 222);
+    background-color: #f3f1f1;
+}
+h3{
+        
+      margin-left:45px;
+}
+input[type="text"]
+{
+    height:40px;
+    width:250px;
+    margin-left:45px;
+    border:1px solid rgb(237, 237, 237);
+}
+#submit
+{
+    height:0px;
+    width:0px;
+    
+}
+#submit_button
+{
+    height:20px;
+    padding:10px;
+    width:80px;
+    background-color:black;
+    color:white;
+    margin-left:100px;
+    padding-left:30px;
+    border-radius:10px;
+}
+
+a{
+    text-decoration: none;
+}

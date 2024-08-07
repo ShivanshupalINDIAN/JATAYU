@@ -6,7 +6,7 @@ form{
     height:550px;
     width:430px;
     border:1px solid rgb(220, 220, 220);
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(244, 243, 243);
     border-radius:1px;
     margin-left:510px;
     margin-top:-40px;
@@ -52,4 +52,28 @@ select{
 input[type="radio"]
 {
     height:20px;
+}
+#next
+{
+    height:0px;
+    width:0px;
+    float:right;
+    margin-right:280px;
+    margin-top:-50px;
+    
+    
+}
+a{
+    text-decoration:none;
+}
+#next_button
+{
+    height:50px;
+    width:100px;
+    border:1px solid gray;
+    color:white;
+    text-align:center;
+    background-color: black;
+    border-radius:10px;
+    padding-bottom:6px;
 }
